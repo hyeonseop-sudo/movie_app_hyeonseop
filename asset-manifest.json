@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/movie_app_hyeonseop/static/css/main.53e2de78.chunk.css",
+    "main.css": "/movie_app_hyeonseop/static/css/main.12efd458.chunk.css",
     "main.js": "/movie_app_hyeonseop/static/js/main.51907981.chunk.js",
     "main.js.map": "/movie_app_hyeonseop/static/js/main.51907981.chunk.js.map",
     "runtime-main.js": "/movie_app_hyeonseop/static/js/runtime-main.c997bf8a.js",
@@ -8,13 +8,13 @@
     "static/js/2.595cace8.chunk.js": "/movie_app_hyeonseop/static/js/2.595cace8.chunk.js",
     "static/js/2.595cace8.chunk.js.map": "/movie_app_hyeonseop/static/js/2.595cace8.chunk.js.map",
     "index.html": "/movie_app_hyeonseop/index.html",
-    "static/css/main.53e2de78.chunk.css.map": "/movie_app_hyeonseop/static/css/main.53e2de78.chunk.css.map",
+    "static/css/main.12efd458.chunk.css.map": "/movie_app_hyeonseop/static/css/main.12efd458.chunk.css.map",
     "static/js/2.595cace8.chunk.js.LICENSE.txt": "/movie_app_hyeonseop/static/js/2.595cace8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c997bf8a.js",
     "static/js/2.595cace8.chunk.js",
-    "static/css/main.53e2de78.chunk.css",
+    "static/css/main.12efd458.chunk.css",
     "static/js/main.51907981.chunk.js"
   ]
 }
